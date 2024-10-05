@@ -53,7 +53,7 @@ How to Run:
 
 1 - Clone this repository
 
-    git clone 
+    git clone git@github.com:Moleksan/42_Piscine_C00.git
 
 2 - Navigate to the exercise directory and compile the C file. For example, for Exercise 00:
   
